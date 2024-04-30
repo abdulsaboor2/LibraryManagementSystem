@@ -1,5 +1,5 @@
 # LibraryManagementSystem
-Library Management System is my semester project. In this project, I made a desktop application in C# where I developed a system to make a record of books. Using this system, Admin can add book details, update book details, View book details and dellete book details. The SQL Database is used to handle the Record of the system.
+Library Management System is my mini project to show some work for desktop application. In this project, I made a desktop application in C# where I developed a system to make a record of books, other term can be used as Library Management system. Using this system, Admin can add book details, update book details, View book details and delete book details. The SQL Database is used to handle the Record of the system. Also, from the user end, user can view books, but if user want to download or want to view full access then the user should be registered in the system and login to their pannel.
 
 Home Screen Without Login
 ![image](https://user-images.githubusercontent.com/57446794/187721760-476d7098-4616-4e98-a0d6-c2cddc0aa674.png)
